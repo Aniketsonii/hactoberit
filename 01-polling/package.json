@@ -1,0 +1,14 @@
+{
+  "name": "01-polling",
+  "version": "1.0.0",
+  "description": "A script that will poll the url of your choice for the number of times you want.",
+  "main": "fetchmultiplewithdelay.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Aniketsonii",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
